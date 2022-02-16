@@ -345,18 +345,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   TexturePass0: {fileID: 8400000, guid: fd738ba93abf3f9488660d01c6486d40, type: 2}
-  TexturePass2: {fileID: 8400000, guid: 740adb9e9dc9e4e20a60386f83eb360d, type: 2}
-  TextureDenoise: {fileID: 8400000, guid: 8bbdac85675855e4da4e382ebb28cdb8, type: 2}
   Pass1Material: {fileID: 2100000, guid: 48a9e02c328413f4f9e0855bca0e2773, type: 2}
   Pass2Material: {fileID: 2100000, guid: 6c73d523034daaa4495a1685dd682eb9, type: 2}
   DenoiseMaterial: {fileID: 2100000, guid: e22c161034b79fb4bb8d55209612a7e1, type: 2}
-  width: 1440
-  height: 1600
   sigma: 2.2
   fx: 0.3
   fy: 0.3
   eyeX: 0.5
   eyeY: 0.5
+  savePath: Savings
 --- !u!20 &515621403
 Camera:
   m_ObjectHideFlags: 0

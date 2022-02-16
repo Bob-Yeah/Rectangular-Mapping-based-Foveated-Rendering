@@ -56,7 +56,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Pass2Tex:
-        m_Texture: {fileID: 8400000, guid: 740adb9e9dc9e4e20a60386f83eb360d, type: 2}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
@@ -76,8 +76,8 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - _eyeX: 0.519
-    - _eyeY: 0.99
+    - _eyeX: 0.5
+    - _eyeY: 0.5
     - _iResolutionX: 1440
     - _iResolutionY: 1600
     - _scaleRatio: 1.6

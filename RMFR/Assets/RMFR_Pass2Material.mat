@@ -76,10 +76,10 @@ Material:
     - _SrcBlend: 1
     - _UVSec: 0
     - _ZWrite: 1
-    - _eyeX: 0.519
-    - _eyeY: 0.99
-    - _fx: 0.305
-    - _fy: 0.305
+    - _eyeX: 0.5
+    - _eyeY: 0.5
+    - _fx: 0.3
+    - _fy: 0.3
     - _iApplyLogMap2: 1
     - _iResolutionX: 1440
     - _iResolutionY: 1600
