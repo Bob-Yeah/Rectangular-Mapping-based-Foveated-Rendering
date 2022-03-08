@@ -3,8 +3,20 @@ Source Code of Rectangular Mapping-based Foveated Rendering(IEEE VR 2022)
 
 Unity demo. Tested on Unity 2020.3.8f1
 
-* [Slides]
 
+* [**Paper**](http://dalab.se.sjtu.edu.cn/www/home/wp-content/uploads/2022/01/vr22b-sub1543-cam-i6.pdf)
+* [**Website**](http://dalab.se.sjtu.edu.cn/www/home/?page_id=6440)
+* [Slides]
+* \[**Full Talk Video**\] [\[YouTube\]](https://youtu.be/B3nOvzHgC6w)               [\[Bilibili\]](https://www.bilibili.com/video/BV1E34y1k7Ua?zw)
+* \[**Preview**\] [\[YouTube\]](https://youtu.be/_OF80ekFiMg)               [\[Bilibili\]](https://www.bilibili.com/video/BV1mR4y157Fw?zw)
+
+### Introduction
+With the speedy increase of display resolution and the demand for interactive frame rate, rendering acceleration is becoming more critical for a wide range of virtual reality applications. Foveated rendering addresses this challenge by rendering with a non-uniform resolution for the display. Motivated by the non-linear optical lens equation, we present rectangular mapping-based foveated rendering (RMFR), a simple yet effective implementation of foveated rendering framework. RMFR supports varying level of foveation according to the eccentricity and the scene complexity. Compared with traditional foveated rendering methods, rectangular mapping-based foveated rendering provides a superior level of perceived visual quality while consuming minimal rendering cost.
+
+### Citation
+If you find our work useful in your research, please consider citing:
+```
+```
 ## Comparison with KFR (Fireroom Example)
 
 The comparison between 
